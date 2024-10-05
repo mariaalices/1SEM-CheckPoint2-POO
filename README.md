@@ -17,7 +17,7 @@ Em seguida:
 
 a) Imprima uma listagem (saída no console) contendo o nome do usuário, a placa e o modelo do veículo, o horário de entrada e o horário de saída de cada veículo.
 
-b) Imprima o valor que cada um dos veículos irá pagar pelo tempo de permanência. A cobrança é feita por minutos (R$ 0,20 por minuto). Supondo que o horário seja 15:11 o tempo em minutos será: 15 x 60 + 11 - 911.
+b) Imprima o valor que cada um dos veículos irá pagar pelo tempo de permanência. A cobrança é feita por minutos (R$ 0,20 por minuto). Supondo que o horário seja 15:11 o tempo em minutos será: 15 x 60 + 11 = 911.
 
 c) Imprima o valor total que o estacionamento faturou com a entrada e saída dos veículos.
 
